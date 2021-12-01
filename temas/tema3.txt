@@ -1,0 +1,1 @@
+git permite la creacion de ramas lo que permite tener distintas versiones demo proyecto y trabajar de manera simultanea en ellas.
